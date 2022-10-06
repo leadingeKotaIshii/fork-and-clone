@@ -6,3 +6,9 @@ My favorite ice cream flavors!
 
 - Peppermint Stick
 - Mint Chip
+
+leadingeKotaIshii's favorite ice cream flavors:
+
+- Chocolate Mint
+- Shrimp flakes
+- Sunflower seed
